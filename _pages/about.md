@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
 I am Eliott Zimmermann, an engineer working on computer science and specifically XR. I am working at [Centrale Lyon ENISE](https://enise.ec-lyon.fr/) teaching classes and doing technical assistance around computer science.
 I am also working on research for [LIRIS](https://liris.cnrs.fr/) (Laboratoire d'InfoRmatique en Image et Systèmes d'Information) as part of the team working on multisensory XR (more information on the LIRIS XR team [here](https://xr.liris.cnrs.fr/)).
 
