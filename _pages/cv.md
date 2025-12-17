@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
+* Since March 2021: XR Engineer
+  * Centrale Lyon ENISE
+  * Teaching and supervising courses, practical work and projects related to computer science (C#, Unity, Python) for students.
+  * Developing XR applications for internal and research projects within the LIRIS laboratory.
+  * Managing hardware and software through technology monitoring.
+
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
@@ -32,6 +32,14 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
+
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+
 Skills
 ======
 * Skill 1
