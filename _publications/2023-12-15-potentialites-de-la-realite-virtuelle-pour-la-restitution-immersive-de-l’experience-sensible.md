@@ -7,7 +7,7 @@ excerpt: "En dressant un panorama des techniques existantes pour la capture et l
 date: 2023-12-15
 venue: 'Expression sensible'
 paperurl: 'https://hal.science/hal-04676676/'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: "Charles Javerliat, Pierre Raimbaud, Sophie Villenave, Pierre-Philippe Elst, Eliott Zimmermann, et al.. Potentialités de la réalité virtuelle pour la restitution immersive de l’expérience sensible. Expression sensible , 2023, 1. ⟨hal-04676676⟩"
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
